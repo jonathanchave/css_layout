@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        header{
+            padding: 2em;
+            color:white;
+            background-color:black ;
+            clear :left ;
+            text-align: center;
+            border: solid 7px turquoise;
+        }
+        nav{
+            padding: 2em;
+            color:white;
+            background-color:black ;
+            clear :left ;
+            text-align: center;
+            border: solid 5px yellow;
+        }
+        section{
+            width: 750px;
+            height: 188px;
+           padding: 50px;
+           color: pink;
+           text-align: center;
+           background-color: purple;
+           border:solid 5px royalblue;
+        }
+        article{
+            text-align: center;
+            color: red;
+            background-color: royalblue;
+            
+        }
+        aside{
+            width: 363px;
+            height: 188px;
+            padding: 50px;
+            border :solid 5px black;
+            color: chartreuse;
+            background-color: cyan;
+            margin-left: 860px;
+            margin-top: -298px;
+            text-align: center;
+        }
+        header, nav{
+            background-color: lightcoral;
+            color: lightcyan;
+            }
+           footer{
+            padding: 1em;
+            color:white;
+            background-color:coral;
+            text-align: center;
+            border: solid 5px turquoise;
+           }
+    </style>
+    
+</head>
+<body>
+    <header>
+        <h3>
+            "header"
+        </h3>    
+    </header>
+    <nav>
+        <h3> "nav" </h3>
+    </nav>
+    
+    <section>
+        "section"
+        <article>
+            <h3>"articulo"</h3>
+        </article>
+       
+    </section>
+    <aside>
+        <h3>"aside"</h3>
+    </aside>
+    <footer>
+        <h3>"footer"</h3>
+    </footer>
+    
+    
+</body>
+</html>
